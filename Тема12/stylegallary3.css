@@ -1,0 +1,14 @@
+footer{
+    clear:left;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    
+}
+footer{
+    background-color: #400000;
+    color: white;
+}
+*{
+    margin: 0;
+}

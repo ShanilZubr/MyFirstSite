@@ -1,0 +1,12 @@
+header{
+    min-width: 600px;
+    height: 150px;
+}
+main{
+    min-width: 350px;
+    margin-right: 250px;
+    }
+nav{
+    width: 250px;
+    float: right;
+}

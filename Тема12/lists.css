@@ -1,0 +1,11 @@
+h1,h2,h3{
+    text-align: center;
+    text-shadow: 6px 4px  1px rgba(0,0,0, 0.2)
+}
+#mls{
+    text-align: center;
+}
+h3 a:hover{
+    background-color: blueviolet;
+    color: white;
+}

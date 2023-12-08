@@ -1,0 +1,7 @@
+h1,h2,h3{
+    text-align: center;
+}
+h2 a:hover{
+    color: white;
+    background-color: rgb(242, 0, 255)
+}
